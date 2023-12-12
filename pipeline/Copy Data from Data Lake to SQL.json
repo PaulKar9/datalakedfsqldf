@@ -63,7 +63,7 @@
 							},
 							{
 								"source": {
-									"name": "LatD",
+									"name": " \"LatS\"",
 									"type": "String",
 									"physicalType": "String"
 								},
@@ -87,7 +87,7 @@
 							},
 							{
 								"source": {
-									"name": "LatD",
+									"name": " \"LonD\"",
 									"type": "String",
 									"physicalType": "String"
 								},
